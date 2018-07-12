@@ -5,4 +5,4 @@ This data package accompanies the course material posted at https://github.com/d
 library("devtools")
 install.packages("dave-harrington/eventtimedata")
 
-The workshop notes are written in R-Markdown. See the README.md file for that repo for additional details.
+The survival workshop notes are written in R-Markdown. See the README.md file for that repo for additional details.
